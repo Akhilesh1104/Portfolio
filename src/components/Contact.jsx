@@ -70,6 +70,7 @@ const Contact = () => {
                 </label>
                 <input
                   type="text"
+                  required
                   name="name"
                   className="w-full p-4 rounded-lg bg-gray-800 border border-gray-600 focus:outline-none
                     focus:border-green-400 focus:border-2"
@@ -81,6 +82,7 @@ const Contact = () => {
                   Email
                 </label>
                 <input
+                  required
                   type="email"
                   name="email"
                   className="w-full p-4 rounded-lg bg-gray-800 border border-gray-600 focus:outline-none
@@ -93,6 +95,7 @@ const Contact = () => {
                   Message
                 </label>
                 <textarea
+                  required
                   name="message"
                   className="w-full p-4 rounded-lg bg-gray-800 border border-gray-600 focus:outline-none
                     focus:border-green-400 focus:border-2"
@@ -104,7 +107,7 @@ const Contact = () => {
                 <button
                   type="submit"
                   className="bg-gradient-to-r from-green-400 to-blue-500 text-white md:inline
-            transform transition-transform duration-300 hover:scale-105 px-10 py-2 rounded-full text-xl"
+                  px-10 py-2 rounded-full text-xl"
                 >
                   Send
                 </button>
