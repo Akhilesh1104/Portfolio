@@ -9,7 +9,7 @@ const Hero = () => {
       <img
         src={HeroImage}
         alt=""
-        className="mx-auto mb-8 w-48 h-48 rounded-full object-cover transform 
+        className="mx-auto mb-8 w-60 h-60 rounded-full object-cover transform 
         transition-transform duration-300 hover:scale-105"
       />
       <br />
