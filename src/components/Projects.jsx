@@ -9,8 +9,8 @@ const projects = [
     name: "Prescripto",
     technologies: "MERN Stack",
     image: Project1,
-    github: "https://github.com/Akhilesh1104",
-    link:""
+    github: "https://github.com/Akhilesh1104/Prescripto.git",
+    link:"https://prescripto-frontend-jb6m.onrender.com"
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const projects = [
     technologies: "MERN Stack",
     image: Project3,
     github: "https://github.com/Akhilesh1104/Gemini.git",
-    link:"https://gemini-tjzn.onrender.com"
+    link:" https://gemini-5lud.onrender.com"
   },
 ];
 
