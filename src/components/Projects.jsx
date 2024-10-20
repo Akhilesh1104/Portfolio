@@ -2,6 +2,7 @@ import React from "react";
 import Project1 from "../assets/Project1.png";
 import Project2 from "../assets/Project2.png";
 import Project3 from "../assets/Project3.jpg";
+import Project4 from "../assets/Project4.png";
 
 const projects = [
   {
@@ -22,6 +23,14 @@ const projects = [
   },
   {
     id: 3,
+    name: "BG-Removal",
+    technologies: "MERN Stack",
+    image: Project4,
+    github: "https://github.com/Akhilesh1104/BG-Removal.git",
+    link:"https://bg-removal-frontend-virid.vercel.app"
+  },
+  {
+    id: 4,
     name: "Gemini",
     technologies: "MERN Stack",
     image: Project3,
