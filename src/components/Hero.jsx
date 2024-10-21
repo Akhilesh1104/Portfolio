@@ -34,7 +34,7 @@ const Hero = () => {
           LinkedIn Connect
         </a>
         <a
-          href="https://drive.google.com/file/d/1d-IIPjwrbo2JLsi2Qc1Ub2X-ewrQkw1j/view?usp=sharing"
+          href="https://drive.google.com/file/d/1B37gACF3bZHnig1X8o2VQbxHhtxW6JTR/view?usp=sharing"
           className="text-white border-2 border-white
             px-6 py-4 rounded-full hover:border-2 hover:border-green-500"
         >
